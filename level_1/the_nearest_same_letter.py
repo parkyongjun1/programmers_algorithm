@@ -1,8 +1,9 @@
 # 가장 가까운 같은 글자
 # practive problem
+# 정답률: 61% 
 # 2023.02.15
 # 14:05 ~ 14:20 (20 min)
-# 후기 : reverse 함수를 통해 어렵지 않게 해결할 수 있었음.
+# 후기: reverse 함수를 통해 어렵지 않게 해결할 수 있었음.
 
 def solution(s):
     answer = []
