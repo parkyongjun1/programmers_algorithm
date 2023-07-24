@@ -24,9 +24,11 @@ def solution(picks, minerals):
         if idx == len(minerals)-1:
             total_list.append(mineral_list)
     
+    # 곡괭이 수가 광물의 집합의 수가 같거나 클때
     if len(total_list) <= total_num:
         total_list.sort(key = lambda x:(-x.count('diamond'),-x.count('iron'),-x.count('stone')))
     
+    # 곡괭이 수가 광물의 집합의 수보다 작을때
     elif len(total_list) > total_num:
         total_list = total_list[:total_num]
         total_list.sort(key = lambda x:(-x.count('diamond'),-x.count('iron'),-x.count('stone')))
