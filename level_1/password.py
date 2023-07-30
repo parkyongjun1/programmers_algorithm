@@ -1,5 +1,5 @@
 # 둘만의 암호
-# practive problem
+# practice problem
 # 정답률: 51% 
 # 2023.07.25
 # 19:00 ~ 20:00 (60 min)

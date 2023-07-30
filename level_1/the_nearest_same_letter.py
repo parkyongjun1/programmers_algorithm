@@ -1,5 +1,5 @@
 # 가장 가까운 같은 글자
-# practive problem
+# practice problem
 # 정답률: 61% 
 # 2023.02.15
 # 14:05 ~ 14:20 (20 min)

@@ -1,5 +1,5 @@
 # 요격 시스템
-# practive problem
+# practice problem
 # 정답률: 33% 
 # 2023.07.21
 # 13:10 ~ 14:50 (90 min)

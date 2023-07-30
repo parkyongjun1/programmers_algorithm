@@ -1,5 +1,5 @@
 # 귤 고르기
-# practive problem
+# practice problem
 # 정답률: 62% 
 # 2023.03.06
 # 15:45 ~ 16:15 (30 min)

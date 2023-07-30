@@ -1,5 +1,5 @@
 # 달리기 경주
-# practive problem
+# practice problem
 # 정답률: 39% 
 # 2023.06.28
 # 11:30 ~ 13:00 (90 min)

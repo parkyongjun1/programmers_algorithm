@@ -1,5 +1,5 @@
-# 카드 뭉ㅣ
-# practive problem
+# 카드 뭉치
+# practice problem
 # 정답률: 62% 
 # 2023.07.27
 # 17:00 ~ 17:50 (50 min)

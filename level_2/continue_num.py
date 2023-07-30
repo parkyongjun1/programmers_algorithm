@@ -1,5 +1,5 @@
 # 연속된 부분 수열의 합
-# practive problem
+# practice problem
 # 정답률: 49% 
 # 2023.07.25
 # 16:00 ~ 17:00 (60 min)

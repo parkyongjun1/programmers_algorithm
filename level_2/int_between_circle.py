@@ -1,5 +1,5 @@
 # 두 원 사이의 정수 쌍
-# practive problem
+# practice problem
 # 정답률: 36% 
 # 2023.07.29
 # 16:00 ~ 15:20 (80 min)

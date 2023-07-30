@@ -1,5 +1,5 @@
 # 대충 만든 자판
-# practive problem
+# practice problem
 # 정답률: 51% 
 # 2023.07.24
 # 14:50 ~ 15:50 (60 min)

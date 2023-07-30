@@ -1,5 +1,5 @@
 # 크기가 작은 부분문자열
-# practive problem
+# practice problem
 # 정답률: 64% 
 # 2023.02.15
 # 14:30 ~ 14:45 (15 min)

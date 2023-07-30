@@ -1,5 +1,5 @@
 # 광물 캐기
-# practive problem
+# practice problem
 # 정답률: 39% 
 # 2023.07.24
 # 12:50 ~ 14:20 (90 min)

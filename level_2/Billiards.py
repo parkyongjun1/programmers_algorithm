@@ -1,5 +1,5 @@
 # 당구 연습
-# practive problem
+# practice problem
 # 정답률: 18% 
 # 2023.07.10
 # 13:30 ~ 14:10 (40 min)

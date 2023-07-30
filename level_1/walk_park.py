@@ -1,5 +1,5 @@
 # 공원 산책
-# practive problem
+# practice problem
 # 정답률: 37% 
 # 2023.06.28
 # 10:00 ~ 11:20 (80 min)

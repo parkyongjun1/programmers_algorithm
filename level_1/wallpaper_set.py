@@ -1,5 +1,5 @@
 # 바탕화면 정리
-# practive problem
+# practice problem
 # 정답률: 41% 
 # 2023.06.29
 # 13:00 ~ 13:25 (25 min)

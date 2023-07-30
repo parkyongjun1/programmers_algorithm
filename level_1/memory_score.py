@@ -1,5 +1,5 @@
 # 추억 점수
-# practive problem
+# practice problem
 # 정답률: 66% 
 # 2023.06.29
 # 11:45 ~ 12:00 (15 min)

@@ -1,5 +1,5 @@
 # 덧칠하기
-# practive problem
+# practice problem
 # 정답률: 59% 
 # 2023.07.21
 # 15:00 ~ 15:05 (5 min)
